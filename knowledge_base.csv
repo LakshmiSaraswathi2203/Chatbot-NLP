@@ -1,0 +1,84 @@
+questions,answer
+Hello,hey there!!
+I want to know about you?,I am here to help you learn Machine Learning
+heyy,Hii...How can i help you??
+dhfg,sorry i dont know the answer
+Who are you?,I am your personal ChatBot..
+What is deep learning?,Deep Learning is a subset of Machine Learning that uses neural networks with many layers (deep networks) to analyze various types of data.
+What is the difference between AI and Machine Learning?,Artificial Intelligence (AI) is the broader concept of machines being able to carry out tasks in a way that we would consider 'smart'
+How do I get started with Machine Learning?,You can start by learning Python
+How are you?,I'm good thank you for asking...How are you doing?..
+hii,hello..
+you idiot..,I'm Sorry If i caused you any trouble
+ok,Thank you!! Have a good time..
+woow,That's Amazing.. Right..
+woow thats great,Yup!! Thank you..!!!
+applications of ml,"finance, marketing etc.,"
+haaa yess,sounds great...!!!
+I am happy ,I am even more happy for you..!!
+what can u do?,i can answer the questions you ask...
+questions,answer
+What is Machine Learning?,Machine Learning is a field of artificial intelligence that uses statistical techniques to enable computers to improve at tasks with experience.
+Can you explain supervised learning?,Supervised Learning is a type of Machine Learning where the model is trained on labeled data.
+What is unsupervised learning?,Unsupervised Learning involves training a model on data without labeled responses
+What are neural networks?,Neural Networks are computational models inspired by the human brain
+What is overfitting?,Overfitting occurs when a model learns the training data too well
+What is a confusion matrix?,A confusion matrix is a performance measurement tool 
+for classification models that summarizes the correct and incorrect predictions.,
+How do I evaluate a machine learning model?,You can evaluate a model using metrics like accuracy
+What are some common algorithms in machine learning?,Common algorithms include Linear Regression
+What is feature engineering?,Feature Engineering is the process of using domain knowledge to select
+How can I improve my model's performance?,You can improve performance by tuning hyperparameters
+What is natural language processing?,"Natural Language Processing (NLP) is a field at the intersection of computer science and linguistics, focused on the interaction between computers and human language."
+What is reinforcement learning?,Reinforcement Learning is a type of Machine Learning where an agent learns to make decisions by taking actions in an environment to maximize cumulative reward.
+What is Dimensionality Reduction?,Dimesionality Reduction is the process of reducing the number of input variables in a dataset.
+What is NLU?,it is a subfiled of NLP that focuses on machine comprehension of human language including tasks like sentiment analysis and intent recognition
+I need a help,Yes!! ofCourse I'm there to help you..
+Are you there?,Yes! I'm at your service!!
+What is Gradient Descent,A optimization algorithm used to minimize the loss function by iteratively adjusting model parameters.
+What is Bias-Variance Tradeoff,The balance between a model's ability to minimize bias (error from overly simplistic models) and variance (error from overly complex models).
+What is Regularization,Techniques used to prevent overfitting by adding a penalty to the loss function for large coefficients.
+What is Ensemble Learning,A technique that combines multiple models to improve overall performance such as bagging and boosting.
+What is Loss Function,A function that measures how well the model's predictions match the actual data used to guide optimization.
+What is Support Vector Machine,A supervised learning algorithm that finds the hyperplane that best separates different classes in the data.
+What is Decision Tree,A model that uses a tree-like graph of decisions and their possible consequences including chance event outcomes.
+What is Clustering,An unsupervised learning technique that groups similar data points together based on their features.
+What is Principal Component Analysis (PCA),A dimensionality reduction technique that transforms data to a new coordinate system reducing complexity while retaining variance.
+What is Feature Selection,The process of selecting a subset of relevant features for model building to improve performance and reduce overfitting.
+What is Natural Language Generation (NLG),A subfield of NLP focused on generating human-like text from structured data or models.
+What is Tokenization,The process of breaking text into smaller units such as words or phrases for analysis in NLP tasks.
+What is Bag of Words,A representation of text data that describes the occurrence of words within a document disregarding grammar and order.
+What is Recurrent Neural Network (RNN),A type of neural network designed for sequential data allowing information to persist across time steps.
+What is Convolutional Neural Network (CNN),A class of deep learning models primarily used for image processing but also applicable to text data.
+What is Hyperparameter Tuning,The process of optimizing the hyperparameters of a model to achieve better performance.
+What is Learning Rate,The parameter that controls how much to change the model in response to the estimated error each time the model weights are updated.
+What is Batch Normalization,A technique to improve the speed performance and stability of artificial neural networks by normalizing the inputs to each layer.
+What is Transfer Learning,A method where a model developed for one task is reused as the starting point for a model on a second task.
+What is Data Augmentation,A technique used to increase the diversity of training data by applying random transformations to the original data.
+What is K-Means Clustering,A popular unsupervised learning algorithm that partitions data into K distinct clusters based on feature similarity.
+What is Dimensionality Curse,A phenomenon where the feature space becomes increasingly sparse as the number of dimensions increases making data analysis more difficult.
+What is Precision,The ratio of true positive predictions to the total predicted positives indicating the accuracy of positive predictions.
+What is Recall,The ratio of true positive predictions to the total actual positives measuring the ability of a model to identify all relevant instances.
+What is F1 Score,A measure that combines precision and recall into a single score to evaluate model performance particularly in imbalanced datasets.
+What is One-Hot Encoding,A method of converting categorical variables into a binary matrix representation making them suitable for machine learning models.
+What is Word Embeddings,A type of word representation that allows words to be represented as vectors in a continuous vector space capturing semantic meanings.
+What is Attention Mechanism,A technique used in neural networks to improve performance by focusing on specific parts of the input data rather than processing all input equally.
+What is Long Short-Term Memory (LSTM),A specialized type of recurrent neural network capable of learning long-term dependencies in sequence prediction problems.
+What is Transferable Skills,Capabilities learned in one context that can be applied to another context particularly relevant in multi-task learning scenarios.
+What is Autoencoder,A type of neural network used for unsupervised learning that aims to learn efficient representations of data often for dimensionality reduction.
+What is Outlier,An observation that lies an abnormal distance from other values in a dataset often indicating variability in measurement or experimental errors.
+What is Feature Engineering,The process of using domain knowledge to create features that make machine learning algorithms work better.
+What is Generative Adversarial Network (GAN),A class of machine learning frameworks where two neural networks contest with each other to generate new data instances.
+What is Sparsity,The condition of having many zero or near-zero values in a dataset which can complicate analysis and modeling.
+What is Cross-Entropy Loss,A loss function commonly used in classification problems that measures the difference between two probability distributions.
+What is Validation Set,A subset of the dataset used to provide an unbiased evaluation of a model during training separate from the training set.
+What is Feature Importance,A technique used to determine the significance of individual features in predicting the target variable.
+What is Overfitting,The phenomenon where a model learns the training data too well capturing noise instead of the underlying pattern leading to poor performance on unseen data.
+What is Underfitting,A situation in which a model is too simplistic to capture the underlying trend of the data resulting in poor performance.
+What is Ensemble Method,A technique that combines predictions from multiple models to improve accuracy and robustness.
+What is Reinforcement Learning,An area of machine learning focused on how agents ought to take actions in an environment to maximize cumulative reward.
+What is Natural Language Processing (NLP),A field of artificial intelligence that focuses on the interaction between computers and humans through natural language.
+What is Gradient Boosting,A machine learning technique for regression and classification problems that builds models in a stage-wise fashion by optimizing a loss function.
+What is Data Leakage,A situation where the model has access to information it shouldn't during training leading to overoptimistic performance estimates.
+What is Exploratory Data Analysis (EDA),The process of analyzing data sets to summarize their main characteristics often using visual methods.
+What is Support Vector Regression (SVR),An extension of support vector machines to regression problems aiming to find a function that approximates the relationship between variables.
